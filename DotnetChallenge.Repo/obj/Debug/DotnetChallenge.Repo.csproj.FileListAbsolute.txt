@@ -1,0 +1,4 @@
+D:\DotnetChallenge\DotnetChallenge.Repo\bin\Debug\DotnetChallenge.Repo.dll
+D:\DotnetChallenge\DotnetChallenge.Repo\bin\Debug\DotnetChallenge.Repo.pdb
+D:\DotnetChallenge\DotnetChallenge.Repo\obj\Debug\DotnetChallenge.Repo.dll
+D:\DotnetChallenge\DotnetChallenge.Repo\obj\Debug\DotnetChallenge.Repo.pdb
